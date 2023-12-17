@@ -23,4 +23,4 @@ As an aspiring AI/ML Engineer, I am currently immersed in the AI Engineering pro
 - **Other Skills:** Computer Hardware, Computer Repair
 
 ## 📈 My GitHub Stats
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=driessenslucas&show_icons=true&theme=radical)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=driessenslucas&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driessenslucas&langs_count=8&theme=radical)
