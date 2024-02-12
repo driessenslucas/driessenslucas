@@ -62,7 +62,7 @@ I'm an aspiring AI/ML Engineer currently advancing my knowledge through the AI E
 
 I am keen on connecting with professionals and enthusiasts in the AI/ML field. If you're interested in discussing innovative projects or sharing insights, feel free to connect!
 
-[LinkedIn](https://www.linkedin.com/in/lucasdriessens) | [GitHub](https://github.com/driessenslucas)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/lucasdriessens) | [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/driessenslucas)
 
 ## 📈 My GitHub Stats
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=driessenslucas&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driessenslucas&langs_count=8&theme=radical)
