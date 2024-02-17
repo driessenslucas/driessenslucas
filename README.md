@@ -8,7 +8,7 @@ I'm an aspiring AI/ML Engineer currently advancing my knowledge through the AI E
 - AI Engineering, Howest Kortrijk (Expected Graduation: 2024)
 
 ## 💼 Key Projects
-- **Book Recommendation App**: Personalized recommendations using Flask, MongoDB, and OpenAI's API.
+- **Book Recommendation App**: Personalized recommendations using Flask, Google firebase, and OpenAI's API.
 - **MLOps Mushroom Classification**: End-to-end ML pipeline with Azure ML and FastAPI.
 - **Sim2Real RC-car Navigation**: Reinforcement learning for real-life applications.
 - **Lobster Breeding System**: Cloud services for a sustainable aquaculture environment.
