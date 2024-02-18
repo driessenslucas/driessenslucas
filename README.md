@@ -73,3 +73,4 @@ I am keen on connecting with professionals and enthusiasts in the AI/ML field. I
 
 ## 📈 My GitHub Stats
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=driessenslucas&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driessenslucas&langs_count=8&theme=radical)
+![](https://komarev.com/ghpvc/?username=driessenslucas&style=for-the-badge)
