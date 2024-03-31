@@ -22,7 +22,7 @@ I'm an aspiring AI/ML Engineer currently advancing my knowledge through the AI E
 - **Data Analysis & Big Data**
 - **MLOps & Cloud Services** (Azure ML, FastAPI)
 - **Cloud-Native Technologies** (Docker, Kubernetes)
-- **Full-Stack Development** (Front-end, API, Database Management, JavaScript)
+- **Full-Stack Development**
 - **Project Management & Team Collaboration**
 - **Problem-Solving & Critical Thinking**
 
