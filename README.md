@@ -20,8 +20,8 @@ I'm an aspiring AI/ML Engineer currently advancing my knowledge through the AI E
 - **Machine Learning & Deep Learning**
 - **Reinforcement Learning**
 - **Data Analysis & Big Data**
-- **MLOps & Cloud Services** (Azure ML, FastAPI)
-- **Cloud-Native Technologies** (Docker, Kubernetes)
+- **MLOps & Cloud Services**
+- **Cloud-Native Technologies**
 - **Full-Stack Development**
 - **Project Management & Team Collaboration**
 - **Problem-Solving**
