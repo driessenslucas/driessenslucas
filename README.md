@@ -24,7 +24,7 @@ I'm an aspiring AI/ML Engineer currently advancing my knowledge through the AI E
 - **Cloud-Native Technologies** (Docker, Kubernetes)
 - **Full-Stack Development**
 - **Project Management & Team Collaboration**
-- **Problem-Solving & Critical Thinking**
+- **Problem-Solving**
 
 ## 💻 Tech Stack
 
