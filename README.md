@@ -62,18 +62,12 @@ I'm an aspiring AI/ML Engineer currently advancing my knowledge through the AI E
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-### Additional Skills
-- **Computer Hardware & Repair:** Understanding and practical skills in computer maintenance and troubleshooting.
-
 ## 🌟 Connect With Me
-
-I am keen on connecting with professionals and enthusiasts in the AI/ML field. If you're interested in discussing innovative projects or sharing insights, feel free to connect!
-
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/lucasdriessens) | [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/driessenslucas)
 
 ## 📈 My GitHub Stats
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=driessenslucas&show_icons=true&theme=tokyonight&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driessenslucas&hide_progress=true&show_icons=true&theme=tokyonight)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=driessenslucas&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driessenslucas&hide_progress=true&show_icons=true&theme=gruvbox)
 
 
 ![](https://komarev.com/ghpvc/?username=driessenslucas&style=for-the-badge)
