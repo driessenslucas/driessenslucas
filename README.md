@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 
-I'm an aspiring AI/ML Engineer currently advancing my knowledge through the AI Engineering program at Howest Kortrijk. I am passionate about programming, machine learning, big data, and deep learning. My journey so far has been a blend of academic learning and hands-on projects, through which I've gained a robust understanding of AI's practical applications and its potential to solve real-world problems.
+I am passionate about programming, machine learning, big data, and deep learning. My journey so far has been a blend of academic learning and hands-on projects, through which I've gained a robust understanding of AI's practical applications and its potential to solve real-world problems.
 
 ## 🎓 Education
-- AI Engineering, Howest Kortrijk (Expected Graduation: 2024)
+- AI Engineering, Howest Kortrijk (Graduated jun2024)
 
 ## 💼 Key Projects
 - **Book Recommendation App**: Personalized recommendations using Flask, Google firebase, and OpenAI's API.
